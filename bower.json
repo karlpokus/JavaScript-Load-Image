@@ -1,0 +1,34 @@
+{
+  "name": "js-load-image-bower",
+  "description": "js-load-image@2.6.1 for bower",
+  "main": "js/load-image.all.min.js",
+  "authors": [
+    "Karl Pokus <karl.pokus@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "load",
+    "loading",
+    "image",
+    "file",
+    "blob",
+    "url",
+    "scale",
+    "crop",
+    "img",
+    "canvas",
+    "meta",
+    "exif",
+    "thumbnail",
+    "resizing"
+  ],
+  "homepage": "https://github.com/karlpokus/js-load-image-bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
